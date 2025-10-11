@@ -1,0 +1,8 @@
+D:/MCA/work/julia/lab3/report/build/CMakeFiles/build_all.dir
+D:/MCA/work/julia/lab3/report/build/CMakeFiles/build_pdf.dir
+D:/MCA/work/julia/lab3/report/build/CMakeFiles/build_docx.dir
+D:/MCA/work/julia/lab3/report/build/CMakeFiles/report3_pdf.dir
+D:/MCA/work/julia/lab3/report/build/CMakeFiles/report3_docx.dir
+D:/MCA/work/julia/lab3/report/build/CMakeFiles/clean_all.dir
+D:/MCA/work/julia/lab3/report/build/CMakeFiles/edit_cache.dir
+D:/MCA/work/julia/lab3/report/build/CMakeFiles/rebuild_cache.dir
