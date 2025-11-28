@@ -1,0 +1,8 @@
+D:/New folder/lab7/presentation/build/CMakeFiles/build_all.dir
+D:/New folder/lab7/presentation/build/CMakeFiles/build_pdf.dir
+D:/New folder/lab7/presentation/build/CMakeFiles/build_html.dir
+D:/New folder/lab7/presentation/build/CMakeFiles/presentation7_pdf.dir
+D:/New folder/lab7/presentation/build/CMakeFiles/presentation7_html.dir
+D:/New folder/lab7/presentation/build/CMakeFiles/clean_all.dir
+D:/New folder/lab7/presentation/build/CMakeFiles/edit_cache.dir
+D:/New folder/lab7/presentation/build/CMakeFiles/rebuild_cache.dir
